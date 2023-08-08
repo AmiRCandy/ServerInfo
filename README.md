@@ -1,7 +1,7 @@
 
-# 🖥 Server iNFO
+# 🖥 Server info
 
-**🧨 Devloper : YoungSaad**
+**🧨 Devloper : AmiR**
 
 **🍨 Bash Script**
 
@@ -17,7 +17,7 @@
 ## ⚒ Usage/Example
 
 ```
-YoungSaad@root:~$ sh is.sh
+AmiR@root:~$ sh is.sh
 
 <======= Your Server iNfo =======>
 • Server Memory : 3397 MB
@@ -39,14 +39,8 @@ Su Mo Tu We Th Fr Sa
 27 28 29 30 31
 
 <========== Developer ===========>
-• Dev : YoungSaad
-• Github : https://github.com/YoungSaad
+• Dev : AmiR
+• Github : [AmiRCandy](https://github.com/AmiRCandy)
       <==== End ====>
 
 ```
-
-## 📡 Contact With Me
-
- - [ 👾 My Telegram Bot](http://t.me/YoungSaadBot)
- - [🤖 Reddit](https://s.reddit.com/c/18kn0x7pj06fu)
- 
